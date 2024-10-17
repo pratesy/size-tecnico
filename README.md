@@ -74,9 +74,12 @@ Resumindo: a antecipação de recebíveis com nota fiscal é quando uma empresa 
   "total_bruto": 30000
 }
 ```
+# Entregar
+- Backup do banco usado (dê preferência para SQL Server)
+- Código Fonte
 
-# Exemplos
-
+# Caso de Exemplo
+Qualqer outra dúvida, estamos a disposição para tirar
 Supondo que um usuario tenha as seguintes NFS
 
 NF 10
